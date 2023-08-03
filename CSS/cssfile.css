@@ -2,13 +2,13 @@ body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     display: flex;
     justify-content: center;
-    align-items: first baseline;
+    align-items:first baseline;
     height:auto;
     margin: auto;
 }
 
 button {
-    padding: auto;
+    padding: 10px;
     background-color: blue;
     border: none;
     cursor: pointer;
